@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 
-<widget xmlns = "http://www.w3.org/ns/widgets"
+<widget xmlns ="http://www.w3.org/ns/widgets"
   xmlns:gap="http://phonegap.com/ns/1.0"
   id ="com.phonegap.app1"
   version ="1.0.0">
   
-  <name>app1-2019Datos del dispositivo </name>
+  <name>app1-2019 Datos del dispositivo </name>
   
   <description>
   Aplicacion que nos muestra la informacion referente al dispositivo movil
   </description>
   
   <author href="https://build.phonegap.com" email="evelyne170101@gmail.com">
-  Aqui escribiras tu nombre 
+  Evelyne Tochihuitl Rodriguez 
   </author>
   
   <!--Personaliza la aplicacion y plataforma-->
